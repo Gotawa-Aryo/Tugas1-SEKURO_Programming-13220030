@@ -1,0 +1,4 @@
+Yaa, ini baris pertama
+Ini baris kedua
+Terus ini baris ketiga
+Pasti udah tahu kalau ini baris keempat
