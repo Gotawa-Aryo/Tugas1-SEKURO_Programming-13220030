@@ -1,0 +1,3 @@
+GITHUB: Fork
+
+Forking adalah kegiatan menduplikat repo pengguna lain dan memasukkannya ke repository kita beserta history-nya. Kita dapat mengubahnya sesuka kita tanpa mengganggu pemilik aslinya. Forking adalah jembatan antara repo original dan duplikatnya. Fork itu menduplikat repo orang lain ke GITHUB kita, sedangkan clone itu menduplikat repo dari GITHUB (di website) ke GIT (di komputer). Setelah kita forking repo orang lain, kita dapat memodifikasinya, lalu mengajukan pull-request ke pemilik repo agar hasil modifikasi kita dipakai pemilik repo.
